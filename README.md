@@ -10,7 +10,8 @@
 
 ### 🚀 About Me
 
-Full Stack Developer passionate about building modern web applications and learning new technologies.  
+Full Stack Developer passionate about building modern web applications and learning new technologies.
+<br/>
 Desenvolvedor Full Stack apaixonado por criar aplicações web modernas e aprender novas tecnologias.
 
 🔭 &nbsp;I'm currently working on **Personal Projects // Projetos Pessoais**  
